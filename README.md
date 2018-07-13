@@ -20,7 +20,7 @@ Ouroboros CritterAI modified
 	2: Open Unity3D to create a new project and add a 3D game terrain and sky boxes in the game scene, terrain create the resource name in a project called "New Terrain.asset"
 	3: Copy all files and directories under the Unity3D / Assets directory to your Unity3D game corresponding to the item Assets, and now our Editor effect with the game asset library folder contents as shown below
 
-![Cainav1] (https://raw.githubusercontent.com/RottenVisions/critterai/master/readme-src/cainav1.jpg)
+![Cainav1](https://raw.githubusercontent.com/RottenVisions/critterai/master/readme-src/cainav1.jpg)
 
 	After initialization, the initialized 4:: select (Standard CritterAI-> Create NMGen Assets-> Navmesh Build) menu item in the game
 	Project directory will appear in several files, they are as follows:
@@ -30,19 +30,19 @@ Ouroboros CritterAI modified
 
 	5: Adding a pathfinding instance can generate topographic grid Compiler, (CritterAI-> Create NMGen Assets-> Compiler: Terrain)
 
-![Cainav2] (https://raw.githubusercontent.com/RottenVisions/critterai/master/readme-src/cainav2.jpg)
+![Cainav2](https://raw.githubusercontent.com/RottenVisions/critterai/master/readme-src/cainav2.jpg)
 
 	We also need to set the terrain we created earlier to be bound to the TerrainCompiler.
 
-![Cainav3] (https://raw.githubusercontent.com/RottenVisions/critterai/master/readme-src/cainav3.jpg)
+![Cainav3](https://raw.githubusercontent.com/RottenVisions/critterai/master/readme-src/cainav3.jpg)
 
 	6: Start generating Navmesh
 
-![Cainav4] (https://raw.githubusercontent.com/RottenVisions/critterai/master/readme-src/cainav4.jpg)
+![Cainav4](https://raw.githubusercontent.com/RottenVisions/critterai/master/readme-src/cainav4.jpg)
 
 	7: Export to a file, then there will be two documents, "srv_" beginning of the file for server pathfinding. Can be used for another client to use the plug-in from locally.
 
-![Cainav5] (https://raw.githubusercontent.com/RottenVisions/critterai/master/readme-src/cainav5.jpg)
+![Cainav5](https://raw.githubusercontent.com/RottenVisions/critterai/master/readme-src/cainav5.jpg)
 
 	(Note: After the completion of generation projects proposed to delete Unity3D Assets \ paper on CAINav under Plugins, otherwise it will cause an error to start the game can not export the game for an unknown reason. This is probably due to the editor files contained in the binary - can try to fix this at a later time)
 
