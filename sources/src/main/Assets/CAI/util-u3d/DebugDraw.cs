@@ -92,15 +92,17 @@ namespace org.critterai.u3d
             {
                 if (!mSimpleMaterial)
                 {
-                    mSimpleMaterial = new Material(
-                        "Shader \"Lines/Colored Blended\" {"
-                        + "SubShader { Pass { "
-                        + "	BindChannels { Bind \"Color\",color } "
-                        + "	Blend SrcAlpha OneMinusSrcAlpha "
-                        + "	ZWrite Off Cull Off Fog { Mode Off } "
-                        + "} } }");
+                    //Fix depreciated code from Unity 5.2.x and below
+                    var shader = Shader.Find("Hidden/Internal-Colored");
+                    mSimpleMaterial = new Material(shader);
                     mSimpleMaterial.hideFlags = HideFlags.HideAndDontSave;
-                    mSimpleMaterial.shader.hideFlags = HideFlags.HideAndDontSave;
+                    // Turn on alpha blending
+                    mSimpleMaterial.SetInt("_SrcBlend", (int)UnityEngine.Rendering.BlendMode.SrcAlpha);
+                    mSimpleMaterial.SetInt("_DstBlend", (int)UnityEngine.Rendering.BlendMode.OneMinusSrcAlpha);
+                    // Turn backface culling off
+                    mSimpleMaterial.SetInt("_Cull", (int)UnityEngine.Rendering.CullMode.Off);
+                    // Turn off depth writes
+                    mSimpleMaterial.SetInt("_ZWrite", 0);
                 }
                 return mSimpleMaterial;
             }

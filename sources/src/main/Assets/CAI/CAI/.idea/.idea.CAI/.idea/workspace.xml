@@ -1,0 +1,1598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d84a6bbb-3368-4bac-b779-4ea22ab4a701" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CAI/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CAI/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CAI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CAI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CAI/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util-u3d/DebugDraw.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../util-u3d/DebugDraw.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MeshUtil.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/MeshUtil.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+              <folding>
+                <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+                <marker date="1531215665000" expanded="true" signature="1130:1203" ph="..." />
+                <marker date="1531215665000" expanded="true" signature="1247:2421" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1284:2419" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1430:2413" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1670:2403" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1837:2000" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AreaFlagDef.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/input/AreaFlagDef.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+                <marker date="1531215665000" expanded="true" signature="1130:1297" ph="..." />
+                <marker date="1531215665000" expanded="true" signature="1299:1832" ph="/// Defines a mapping between areas and flags and applies the flags during the NMGen build process. ... " />
+                <marker date="1531215665000" expanded="true" signature="1931:6204" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1938:2009" ph="/// Flags to associate with areas. ... " />
+                <marker date="1531215665000" expanded="true" signature="2043:2119" ph="/// The area associated with the flags. ... " />
+                <marker date="1531215665000" expanded="true" signature="2229:2304" ph="/// The priority of the processor. ... " />
+                <marker date="1531215665000" expanded="true" signature="2364:2430" ph="/// The name of the processor ... " />
+                <marker date="1531215665000" expanded="true" signature="2484:2597" ph="/// Sets the priority. ... " />
+                <marker date="1531215665000" expanded="true" signature="2636:2698" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2704:2779" ph="/// Duplicates allowed. (Always true.) ... " />
+                <marker date="1531215665000" expanded="true" signature="2844:3315" ph="/// Processes the context. ... " />
+                <marker date="1531215665000" expanded="true" signature="3394:3615" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3672:4928" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3811:3927" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4066:4825" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4246:4516" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4355:4502" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4545:4815" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4991:5227" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5071:5200" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5287:6202" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5430:5546" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5647:5761" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5887:6031" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AreaFlagDefEditor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/input/AreaFlagDefEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+                <marker date="1531215665000" expanded="true" signature="1130:1294" ph="..." />
+                <marker date="1531215665000" expanded="true" signature="1296:1378" ph="/// &lt;see cref=&quot;AreaFlagDef&quot;/&gt; editor. ... " />
+                <marker date="1531215665000" expanded="true" signature="1465:4670" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1638:1787" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1793:1869" ph="/// Controls behavior of the inspector. ... " />
+                <marker date="1531215665000" expanded="true" signature="1911:4336" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2108:2309" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2653:3426" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2792:3225" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3258:3372" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3647:3803" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4342:4453" ph="[...]" />
+                <marker date="1531215665000" expanded="true" signature="4483:4668" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CAIBakedNavmeshEditor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nav-u3d/Editor/CAIBakedNavmeshEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+                <marker date="1531215665000" expanded="true" signature="1130:1325" ph="..." />
+                <marker date="1531215665000" expanded="true" signature="1327:1413" ph="/// &lt;see cref=&quot;CAIBakedNavmesh&quot;/&gt; editor. ... " />
+                <marker date="1531215665000" expanded="true" signature="1515:1591" ph="/// Controls behavior of the inspector. ... " />
+                <marker date="1531215665000" expanded="true" signature="1633:3167" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2264:2499" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2566:2818" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2890:3053" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3240:4106" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3437:3727" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3763:3813" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3829:3905" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3931:4078" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4179:5301" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4362:4518" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4554:4682" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4698:4774" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5426:5619" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5717:5781" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5894:5948" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildTaskProcessor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nmbuild/Editor/BuildTaskProcessor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding>
+                <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+                <marker date="1531215665000" expanded="true" signature="1130:1247" ph="..." />
+                <marker date="1531215665000" expanded="true" signature="1280:12972" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1287:2314" ph="/// Provides a simple multi-threaded processsor for &lt;see cref=&quot;IBuildTask&quot;/&gt; objects. ... " />
+                <marker date="1531215665000" expanded="true" signature="2357:12970" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2372:2798" ph="/* Design notes: ... */" />
+                <marker date="1531215665000" expanded="true" signature="2808:2898" ph="/// A standard value for high priority tasks. ... " />
+                <marker date="1531215665000" expanded="true" signature="2954:3046" ph="/// A standard value for medium priority tasks. ... " />
+                <marker date="1531215665000" expanded="true" signature="3104:3193" ph="/// A standard value for low priority tasks. ... " />
+                <marker date="1531215665000" expanded="true" signature="3271:5711" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3456:3515" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3565:3645" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3676:5701" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3722:5687" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3934:4070" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4199:5669" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4362:5647" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4417:5282" ph="/* Design note: ... */" />
+                <marker date="1531215665000" expanded="true" signature="5314:5418" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5467:5621" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5888:6075" ph="/// The length of time the processor will idle when there are no tasks to process. ... " />
+                <marker date="1531215665000" expanded="true" signature="6111:6223" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="6233:6422" ph="/// The length of time the processor will idle when there are tasks being processed. ... " />
+                <marker date="1531215665000" expanded="true" signature="6462:6581" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7056:7268" ph="/// Constructor ... " />
+                <marker date="1531215665000" expanded="true" signature="7321:7511" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7521:7608" ph="/// The number of active and queued tasks. ... " />
+                <marker date="1531215665000" expanded="true" signature="7678:7752" ph="/// The processor is running. ... " />
+                <marker date="1531215665000" expanded="true" signature="7823:8115" ph="/// The maximum permitted active tasks before new tasks are queued. ... " />
+                <marker date="1531215665000" expanded="true" signature="8197:8479" ph="/// Aborts the processor. ... " />
+                <marker date="1531215665000" expanded="true" signature="8507:8780" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8790:9145" ph="/// Queues a task to be run. ... " />
+                <marker date="1531215665000" expanded="true" signature="9192:10114" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="9481:9803" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="9564:9785" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="9948:10060" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="10124:10560" ph="/// Runs the processor. ... " />
+                <marker date="1531215665000" expanded="true" signature="10586:12964" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="10789:12646" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="11008:12350" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="11151:11357" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="11386:11578" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="11715:12028" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="12071:12328" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="12733:12921" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChunkyTriMesh.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nmgen/Editor/ChunkyTriMesh.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+                <marker date="1531215665000" expanded="true" signature="1130:1357" ph="..." />
+                <marker date="1531215665000" expanded="true" signature="1395:7778" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1402:2799" ph="/// Represents a triangle mesh with area data, spatially divided into nodes for more efficient  ... " />
+                <marker date="1531215665000" expanded="true" signature="2834:7776" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3106:3195" ph="/// The number of spacial nodes in the mesh. ... " />
+                <marker date="1531215665000" expanded="true" signature="3265:3499" ph="/// The number of triangles in the mesh. ... " />
+                <marker date="1531215665000" expanded="true" signature="3781:4515" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4525:4585" ph="/// Destructor. ... " />
+                <marker date="1531215665000" expanded="true" signature="4610:4653" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4663:5173" ph="/// Gets all nodes overlapped by the specified bounds. ... " />
+                <marker date="1531215665000" expanded="true" signature="5300:6096" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5483:6058" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5712:5833" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5923:6044" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="6106:6333" ph="/// Extracts all triangles from the mesh. (Not efficient.) ... " />
+                <marker date="1531215665000" expanded="true" signature="6391:7108" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="6443:6530" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7118:7233" ph="/// True if the object has been disposed and should no longer be used. ... " />
+                <marker date="1531215665000" expanded="true" signature="7316:7414" ph="/// Frees all resources and marks object as disposed. ... " />
+                <marker date="1531215665000" expanded="true" signature="7444:7770" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7491:7760" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildTask.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nmbuild/Editor/BuildTask.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+                <marker date="1531215665000" expanded="true" signature="1130:1209" ph="..." />
+                <marker date="1531215665000" expanded="true" signature="1242:9499" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1249:1599" ph="/// A standard build task that provides data upon completion. ... " />
+                <marker date="1531215665000" expanded="true" signature="1659:9497" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1961:2091" ph="/// Constructor. ... " />
+                <marker date="1531215665000" expanded="true" signature="2130:2184" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2194:2363" ph="/// The priority of the item. ... " />
+                <marker date="1531215665000" expanded="true" signature="2431:2684" ph="/// If true, the task can be safely run on a separate thread from the object(s) monitoring ... " />
+                <marker date="1531215665000" expanded="true" signature="2745:3423" ph="/// Performs a work increment. ... " />
+                <marker date="1531215665000" expanded="true" signature="3480:4077" ph="/// Gets the result of the completed task. ... " />
+                <marker date="1531215665000" expanded="true" signature="4144:4455" ph="/// Finalize the task. ... " />
+                <marker date="1531215665000" expanded="true" signature="4515:4663" ph="/// Adds a message to the message queue. ... " />
+                <marker date="1531215665000" expanded="true" signature="4714:4804" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4813:4979" ph="/// Appends an array of messages to the message queue. ... " />
+                <marker date="1531215665000" expanded="true" signature="5033:5128" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5138:5217" ph="/// The current state of the task. ... " />
+                <marker date="1531215665000" expanded="true" signature="5313:5394" ph="/// The task is in a finished state. ... " />
+                <marker date="1531215665000" expanded="true" signature="5467:5797" ph="/// Messages available after the task is finished. ... " />
+                <marker date="1531215665000" expanded="true" signature="5898:6197" ph="/// The data produced by the task. ... " />
+                <marker date="1531215665000" expanded="true" signature="6257:6684" ph="/// Runs the task through to a finished state. ... " />
+                <marker date="1531215665000" expanded="true" signature="6710:7441" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="6930:7246" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="6982:7197" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7286:7351" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7371:7431" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7451:7774" ph="/// Requests an abort of the task. ... " />
+                <marker date="1531215665000" expanded="true" signature="7815:8250" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8022:8151" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8290:9088" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8398:8642" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8437:8531" ph="/* Don't care if the task actually finished. ... */" />
+                <marker date="1531215665000" expanded="true" signature="8663:9010" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8705:8855" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8903:8992" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="9147:9491" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AreaMarkerCompiler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nmbuild-extras-u3d/Editor/AreaMarkerCompiler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+                <marker date="1531215665000" expanded="true" signature="1130:1245" ph="..." />
+                <marker date="1531215665000" expanded="true" signature="1247:1454" ph="/// Loads and compiles all &lt;see cref=&quot;CylinderAreaMarker&quot;/&gt; and &lt;see cref=&quot;BoxAreaMarker&quot;/&gt; ... " />
+                <marker date="1531215665000" expanded="true" signature="1538:4533" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1545:1616" ph="/// The priority of the processor. ... " />
+                <marker date="1531215665000" expanded="true" signature="1686:1752" ph="/// The name of the processor ... " />
+                <marker date="1531215665000" expanded="true" signature="1806:1886" ph="/// Duplicates not allowed. (Always false.) ... " />
+                <marker date="1531215665000" expanded="true" signature="1952:2429" ph="/// Processes the context. ... " />
+                <marker date="1531215665000" expanded="true" signature="2508:2880" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2543:2852" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2580:2842" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2930:3119" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3172:4531" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3436:4447" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3490:3953" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3997:4437" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OFMConnectionCompiler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nmbuild-extras-u3d/Editor/OFMConnectionCompiler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+                <marker date="1531215665000" expanded="true" signature="1130:1245" ph="..." />
+                <marker date="1531215665000" expanded="true" signature="1247:1417" ph="/// Loads and compiles all &lt;see cref=&quot;OFMConnection&quot;/&gt; components in the scene, based on the ... " />
+                <marker date="1531215665000" expanded="true" signature="1504:4036" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1511:1582" ph="/// The priority of the processor. ... " />
+                <marker date="1531215665000" expanded="true" signature="1652:1718" ph="/// The name of the processor ... " />
+                <marker date="1531215665000" expanded="true" signature="1772:1852" ph="/// Duplicates not allowed. (Always false.) ... " />
+                <marker date="1531215665000" expanded="true" signature="1918:2395" ph="/// Processes the context. ... " />
+                <marker date="1531215665000" expanded="true" signature="2474:2846" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2509:2818" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2546:2808" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="2896:3091" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3144:4034" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3417:3940" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="3506:3930" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavmeshBuild.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/NavmeshBuild.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+                <marker date="1531215665000" expanded="false" signature="1130:1326" ph="..." />
+                <marker date="1531215665000" expanded="true" signature="1328:1547" ph="/// A navigation mesh build. (Editor Only) ... " />
+                <marker date="1531215665000" expanded="true" signature="1625:22196" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="1632:2658" ph="/* Design notes: ... */" />
+                <marker date="1531215665000" expanded="false" signature="2713:3690" ph="Serialized Fields" />
+                <marker date="1531215665000" expanded="true" signature="2819:2949" ph="/// Warning: Always check for nulls via (inputProcessors[i]) evaluation. Don't do null check. ... " />
+                <marker date="1531215665000" expanded="false" signature="3696:4018" ph="Non-Serialized Fields" />
+                <marker date="1531215665000" expanded="true" signature="4024:4088" ph="/// The state of the build. ... " />
+                <marker date="1531215665000" expanded="true" signature="4128:4847" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4146:4841" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4169:4316" ph="/* The test for the input processors is lazy since it may contain ... */" />
+                <marker date="1531215665000" expanded="true" signature="4465:4669" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="4884:4985" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5026:5465" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5079:5459" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5126:5449" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5493:5663" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5567:5657" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5695:5758" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5816:6456" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="5957:6120" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="6004:6110" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="6340:6426" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="6784:6863" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="6900:7513" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="6920:7066" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7078:7507" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7218:7497" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7372:7483" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7552:8138" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7572:7710" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7722:8132" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="7852:8122" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8001:8108" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8309:8388" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8540:8723" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8614:8695" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="8729:8875" ph="/// Resets the build to the &lt;see cref=&quot;NavmeshBuildState.Inactive&quot;/&gt; state, clearing all  ... " />
+                <marker date="1531215665000" expanded="true" signature="8904:9213" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="9274:9795" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="9549:9722" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="9856:11251" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="9989:10171" ph="/* Note: Must ensure exact match with original configuration. ... */" />
+                <marker date="1531215665000" expanded="true" signature="10692:10803" ph="/* Make sure the maximum bounds fits the target mesh. ... */" />
+                <marker date="1531215665000" expanded="true" signature="10846:11179" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="11473:14260" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="11488:11611" ph="/* Remember: Never allow this method to clear the input geometry. ... */" />
+                <marker date="1531215665000" expanded="true" signature="11642:11763" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="12124:12230" ph="/* This section makes sure we don't get duplicate processors. ... */" />
+                <marker date="1531215665000" expanded="true" signature="12281:12829" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="12668:12819" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="12859:12987" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="13152:13284" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="13515:13911" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="13653:13901" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="14359:14736" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="14419:14643" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="14656:14730" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="14811:17151" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="14911:15089" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="15158:15302" ph="/* Note: The tile size is checked since the original builder ... */" />
+                <marker date="1531215665000" expanded="true" signature="15424:15601" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="15719:15957" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="15762:15921" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="16043:16202" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="16282:16857" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="16580:16847" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="16631:16803" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="16885:17123" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="16928:17087" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="17189:17606" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="17271:17501" ph="/* Note: The user may have recompiled the input geometry during the build, resulting in a ... */" />
+                <marker date="1531215665000" expanded="true" signature="17680:21363" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="17743:17942" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="17978:18099" ph="/* Note: If loading from the target, the tile size was already validated. ... */" />
+                <marker date="1531215665000" expanded="true" signature="18188:18499" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="18585:19711" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="18741:18931" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="19062:19606" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="19267:19524" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="19741:21276" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="20090:20342" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="20398:21266" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="20694:21182" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="20733:20828" ph="/* Shouldn't happen.  Probably indicates in internal error ... */" />
+                <marker date="1531215665000" expanded="true" signature="21384:21687" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="21709:21766" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="21798:22194" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="21891:21991" ph="{...}" />
+                <marker date="1531215665000" expanded="true" signature="22028:22188" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>h</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/input/AreaFlagDef.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nav-u3d/Editor/CAIBakedNavmeshEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../util-u3d/Editor/EditorUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../util-u3d/DebugDraw.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmgen/Editor/ChunkyTriMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nav/CrowdAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/NavmeshBuildHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/controls/BuildControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/NavmeshBuild.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmbuild/Editor/BuildTaskProcessor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmbuild/Editor/BuildTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmbuild-extras-u3d/Editor/OFMConnectionCompiler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/MeshUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmbuild-extras-u3d/Editor/AreaMarkerEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/input/AreaFlagDefEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../nmbuild-extras-u3d/Editor/AreaMarkerCompiler.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CAI/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/../util-u3d/DebugDraw.cs" />
+        <option value="$PROJECT_DIR$/util-u3d/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/cai-util/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/cai-util-u3d/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/nmgen/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/cai-nmbuild-u3d/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/cai-nmbuild/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/cai-nmgen/Class1.cs" />
+        <option value="$PROJECT_DIR$/cai-nmbuild-extras-u3d/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/cai-nav/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/cai-nav-u3d/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/cai-nmgen/MonoBehaviour1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Local" pattern="" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="318" />
+    <option name="y" value="171" />
+    <option name="width" value="1920" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CAI" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CAI" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="CAI (8 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nmgen" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d84a6bbb-3368-4bac-b779-4ea22ab4a701" name="Default" comment="" />
+      <created>1531458016272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531458016272</updated>
+      <workItem from="1531458017664" duration="4951000" />
+      <workItem from="1531463081219" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4989000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.256472" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Translate" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.32916147" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/MeshUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1203" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1247:2421" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1284:2419" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1430:2413" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1670:2403" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1837:2000" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/input/AreaFlagDef.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1297" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1299:1832" ph="/// Defines a mapping between areas and flags and applies the flags during the NMGen build process. ... " />
+            <marker date="1531215665000" expanded="true" signature="1931:6204" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1938:2009" ph="/// Flags to associate with areas. ... " />
+            <marker date="1531215665000" expanded="true" signature="2043:2119" ph="/// The area associated with the flags. ... " />
+            <marker date="1531215665000" expanded="true" signature="2229:2304" ph="/// The priority of the processor. ... " />
+            <marker date="1531215665000" expanded="true" signature="2364:2430" ph="/// The name of the processor ... " />
+            <marker date="1531215665000" expanded="true" signature="2484:2597" ph="/// Sets the priority. ... " />
+            <marker date="1531215665000" expanded="true" signature="2636:2698" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2704:2779" ph="/// Duplicates allowed. (Always true.) ... " />
+            <marker date="1531215665000" expanded="true" signature="2844:3315" ph="/// Processes the context. ... " />
+            <marker date="1531215665000" expanded="true" signature="3394:3615" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3672:4928" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3811:3927" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4066:4825" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4246:4516" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4355:4502" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4545:4815" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4991:5227" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5071:5200" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5287:6202" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5430:5546" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5647:5761" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5887:6031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/input/AreaFlagDefEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1294" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1296:1378" ph="/// &lt;see cref=&quot;AreaFlagDef&quot;/&gt; editor. ... " />
+            <marker date="1531215665000" expanded="true" signature="1465:4670" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1638:1787" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1793:1869" ph="/// Controls behavior of the inspector. ... " />
+            <marker date="1531215665000" expanded="true" signature="1911:4336" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2108:2309" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2653:3426" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2792:3225" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3258:3372" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3647:3803" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4342:4453" ph="[...]" />
+            <marker date="1531215665000" expanded="true" signature="4483:4668" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nav-u3d/Editor/CAIBakedNavmeshEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1325" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1327:1413" ph="/// &lt;see cref=&quot;CAIBakedNavmesh&quot;/&gt; editor. ... " />
+            <marker date="1531215665000" expanded="true" signature="1515:1591" ph="/// Controls behavior of the inspector. ... " />
+            <marker date="1531215665000" expanded="true" signature="1633:3167" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2264:2499" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2566:2818" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2890:3053" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3240:4106" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3437:3727" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3763:3813" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3829:3905" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3931:4078" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4179:5301" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4362:4518" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4554:4682" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4698:4774" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5426:5619" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5717:5781" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5894:5948" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild/Editor/BuildTaskProcessor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1247" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1280:12972" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1287:2314" ph="/// Provides a simple multi-threaded processsor for &lt;see cref=&quot;IBuildTask&quot;/&gt; objects. ... " />
+            <marker date="1531215665000" expanded="true" signature="2357:12970" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2372:2798" ph="/* Design notes: ... */" />
+            <marker date="1531215665000" expanded="true" signature="2808:2898" ph="/// A standard value for high priority tasks. ... " />
+            <marker date="1531215665000" expanded="true" signature="2954:3046" ph="/// A standard value for medium priority tasks. ... " />
+            <marker date="1531215665000" expanded="true" signature="3104:3193" ph="/// A standard value for low priority tasks. ... " />
+            <marker date="1531215665000" expanded="true" signature="3271:5711" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3456:3515" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3565:3645" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3676:5701" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3722:5687" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3934:4070" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4199:5669" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4362:5647" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4417:5282" ph="/* Design note: ... */" />
+            <marker date="1531215665000" expanded="true" signature="5314:5418" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5467:5621" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5888:6075" ph="/// The length of time the processor will idle when there are no tasks to process. ... " />
+            <marker date="1531215665000" expanded="true" signature="6111:6223" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6233:6422" ph="/// The length of time the processor will idle when there are tasks being processed. ... " />
+            <marker date="1531215665000" expanded="true" signature="6462:6581" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7056:7268" ph="/// Constructor ... " />
+            <marker date="1531215665000" expanded="true" signature="7321:7511" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7521:7608" ph="/// The number of active and queued tasks. ... " />
+            <marker date="1531215665000" expanded="true" signature="7678:7752" ph="/// The processor is running. ... " />
+            <marker date="1531215665000" expanded="true" signature="7823:8115" ph="/// The maximum permitted active tasks before new tasks are queued. ... " />
+            <marker date="1531215665000" expanded="true" signature="8197:8479" ph="/// Aborts the processor. ... " />
+            <marker date="1531215665000" expanded="true" signature="8507:8780" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8790:9145" ph="/// Queues a task to be run. ... " />
+            <marker date="1531215665000" expanded="true" signature="9192:10114" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9481:9803" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9564:9785" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9948:10060" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="10124:10560" ph="/// Runs the processor. ... " />
+            <marker date="1531215665000" expanded="true" signature="10586:12964" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="10789:12646" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11008:12350" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11151:11357" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11386:11578" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11715:12028" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12071:12328" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12733:12921" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmgen/Editor/ChunkyTriMesh.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1357" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1395:7778" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1402:2799" ph="/// Represents a triangle mesh with area data, spatially divided into nodes for more efficient  ... " />
+            <marker date="1531215665000" expanded="true" signature="2834:7776" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3106:3195" ph="/// The number of spacial nodes in the mesh. ... " />
+            <marker date="1531215665000" expanded="true" signature="3265:3499" ph="/// The number of triangles in the mesh. ... " />
+            <marker date="1531215665000" expanded="true" signature="3781:4515" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4525:4585" ph="/// Destructor. ... " />
+            <marker date="1531215665000" expanded="true" signature="4610:4653" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4663:5173" ph="/// Gets all nodes overlapped by the specified bounds. ... " />
+            <marker date="1531215665000" expanded="true" signature="5300:6096" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5483:6058" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5712:5833" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5923:6044" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6106:6333" ph="/// Extracts all triangles from the mesh. (Not efficient.) ... " />
+            <marker date="1531215665000" expanded="true" signature="6391:7108" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6443:6530" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7118:7233" ph="/// True if the object has been disposed and should no longer be used. ... " />
+            <marker date="1531215665000" expanded="true" signature="7316:7414" ph="/// Frees all resources and marks object as disposed. ... " />
+            <marker date="1531215665000" expanded="true" signature="7444:7770" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7491:7760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild/Editor/BuildTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1209" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1242:9499" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1249:1599" ph="/// A standard build task that provides data upon completion. ... " />
+            <marker date="1531215665000" expanded="true" signature="1659:9497" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1961:2091" ph="/// Constructor. ... " />
+            <marker date="1531215665000" expanded="true" signature="2130:2184" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2194:2363" ph="/// The priority of the item. ... " />
+            <marker date="1531215665000" expanded="true" signature="2431:2684" ph="/// If true, the task can be safely run on a separate thread from the object(s) monitoring ... " />
+            <marker date="1531215665000" expanded="true" signature="2745:3423" ph="/// Performs a work increment. ... " />
+            <marker date="1531215665000" expanded="true" signature="3480:4077" ph="/// Gets the result of the completed task. ... " />
+            <marker date="1531215665000" expanded="true" signature="4144:4455" ph="/// Finalize the task. ... " />
+            <marker date="1531215665000" expanded="true" signature="4515:4663" ph="/// Adds a message to the message queue. ... " />
+            <marker date="1531215665000" expanded="true" signature="4714:4804" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4813:4979" ph="/// Appends an array of messages to the message queue. ... " />
+            <marker date="1531215665000" expanded="true" signature="5033:5128" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5138:5217" ph="/// The current state of the task. ... " />
+            <marker date="1531215665000" expanded="true" signature="5313:5394" ph="/// The task is in a finished state. ... " />
+            <marker date="1531215665000" expanded="true" signature="5467:5797" ph="/// Messages available after the task is finished. ... " />
+            <marker date="1531215665000" expanded="true" signature="5898:6197" ph="/// The data produced by the task. ... " />
+            <marker date="1531215665000" expanded="true" signature="6257:6684" ph="/// Runs the task through to a finished state. ... " />
+            <marker date="1531215665000" expanded="true" signature="6710:7441" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6930:7246" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6982:7197" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7286:7351" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7371:7431" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7451:7774" ph="/// Requests an abort of the task. ... " />
+            <marker date="1531215665000" expanded="true" signature="7815:8250" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8022:8151" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8290:9088" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8398:8642" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8437:8531" ph="/* Don't care if the task actually finished. ... */" />
+            <marker date="1531215665000" expanded="true" signature="8663:9010" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8705:8855" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8903:8992" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9147:9491" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-extras-u3d/Editor/AreaMarkerCompiler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1245" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1247:1454" ph="/// Loads and compiles all &lt;see cref=&quot;CylinderAreaMarker&quot;/&gt; and &lt;see cref=&quot;BoxAreaMarker&quot;/&gt; ... " />
+            <marker date="1531215665000" expanded="true" signature="1538:4533" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1545:1616" ph="/// The priority of the processor. ... " />
+            <marker date="1531215665000" expanded="true" signature="1686:1752" ph="/// The name of the processor ... " />
+            <marker date="1531215665000" expanded="true" signature="1806:1886" ph="/// Duplicates not allowed. (Always false.) ... " />
+            <marker date="1531215665000" expanded="true" signature="1952:2429" ph="/// Processes the context. ... " />
+            <marker date="1531215665000" expanded="true" signature="2508:2880" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2543:2852" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2580:2842" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2930:3119" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3172:4531" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3436:4447" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3490:3953" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3997:4437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-extras-u3d/Editor/OFMConnectionCompiler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1245" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1247:1417" ph="/// Loads and compiles all &lt;see cref=&quot;OFMConnection&quot;/&gt; components in the scene, based on the ... " />
+            <marker date="1531215665000" expanded="true" signature="1504:4036" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1511:1582" ph="/// The priority of the processor. ... " />
+            <marker date="1531215665000" expanded="true" signature="1652:1718" ph="/// The name of the processor ... " />
+            <marker date="1531215665000" expanded="true" signature="1772:1852" ph="/// Duplicates not allowed. (Always false.) ... " />
+            <marker date="1531215665000" expanded="true" signature="1918:2395" ph="/// Processes the context. ... " />
+            <marker date="1531215665000" expanded="true" signature="2474:2846" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2509:2818" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2546:2808" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2896:3091" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3144:4034" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3417:3940" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3506:3930" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/NavmeshBuild.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="false" signature="1130:1326" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1328:1547" ph="/// A navigation mesh build. (Editor Only) ... " />
+            <marker date="1531215665000" expanded="true" signature="1625:22196" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1632:2658" ph="/* Design notes: ... */" />
+            <marker date="1531215665000" expanded="false" signature="2713:3690" ph="Serialized Fields" />
+            <marker date="1531215665000" expanded="true" signature="2819:2949" ph="/// Warning: Always check for nulls via (inputProcessors[i]) evaluation. Don't do null check. ... " />
+            <marker date="1531215665000" expanded="false" signature="3696:4018" ph="Non-Serialized Fields" />
+            <marker date="1531215665000" expanded="true" signature="4024:4088" ph="/// The state of the build. ... " />
+            <marker date="1531215665000" expanded="true" signature="4128:4847" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4146:4841" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4169:4316" ph="/* The test for the input processors is lazy since it may contain ... */" />
+            <marker date="1531215665000" expanded="true" signature="4465:4669" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4884:4985" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5026:5465" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5079:5459" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5126:5449" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5493:5663" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5567:5657" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5695:5758" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5816:6456" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5957:6120" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6004:6110" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6340:6426" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6784:6863" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6900:7513" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6920:7066" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7078:7507" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7218:7497" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7372:7483" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7552:8138" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7572:7710" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7722:8132" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7852:8122" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8001:8108" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8309:8388" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8540:8723" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8614:8695" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8729:8875" ph="/// Resets the build to the &lt;see cref=&quot;NavmeshBuildState.Inactive&quot;/&gt; state, clearing all  ... " />
+            <marker date="1531215665000" expanded="true" signature="8904:9213" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9274:9795" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9549:9722" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9856:11251" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9989:10171" ph="/* Note: Must ensure exact match with original configuration. ... */" />
+            <marker date="1531215665000" expanded="true" signature="10692:10803" ph="/* Make sure the maximum bounds fits the target mesh. ... */" />
+            <marker date="1531215665000" expanded="true" signature="10846:11179" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11473:14260" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11488:11611" ph="/* Remember: Never allow this method to clear the input geometry. ... */" />
+            <marker date="1531215665000" expanded="true" signature="11642:11763" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12124:12230" ph="/* This section makes sure we don't get duplicate processors. ... */" />
+            <marker date="1531215665000" expanded="true" signature="12281:12829" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12668:12819" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12859:12987" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13152:13284" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13515:13911" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13653:13901" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14359:14736" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14419:14643" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14656:14730" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14811:17151" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14911:15089" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="15158:15302" ph="/* Note: The tile size is checked since the original builder ... */" />
+            <marker date="1531215665000" expanded="true" signature="15424:15601" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="15719:15957" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="15762:15921" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16043:16202" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16282:16857" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16580:16847" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16631:16803" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16885:17123" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16928:17087" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="17189:17606" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="17271:17501" ph="/* Note: The user may have recompiled the input geometry during the build, resulting in a ... */" />
+            <marker date="1531215665000" expanded="true" signature="17680:21363" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="17743:17942" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="17978:18099" ph="/* Note: If loading from the target, the tile size was already validated. ... */" />
+            <marker date="1531215665000" expanded="true" signature="18188:18499" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="18585:19711" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="18741:18931" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="19062:19606" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="19267:19524" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="19741:21276" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="20090:20342" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="20398:21266" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="20694:21182" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="20733:20828" ph="/* Shouldn't happen.  Probably indicates in internal error ... */" />
+            <marker date="1531215665000" expanded="true" signature="21384:21687" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="21709:21766" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="21798:22194" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="21891:21991" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="22028:22188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAI/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/../util-u3d/DebugDraw.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="105" column="17" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../util-u3d/Editor/EditorUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="false" signature="1130:1212" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1248:14730" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1255:1360" ph="/// Provides general purpose utility functions for the Unity Editor. ... " />
+            <marker date="1531215665000" expanded="true" signature="1395:14728" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1410:1509" ph="/// The base priority for the CAI asset creation menu. ... " />
+            <marker date="1531215665000" expanded="true" signature="1562:1667" ph="/// The base priority for the CAI game object creation menu. ... " />
+            <marker date="1531215665000" expanded="true" signature="1726:1815" ph="/// The base priority for the CAI view menu. ... " />
+            <marker date="1531215665000" expanded="true" signature="1868:1966" ph="/// The base priority for the CAI manager menu group. ... " />
+            <marker date="1531215665000" expanded="true" signature="2022:2115" ph="/// The base priority for the global menu group. ... " />
+            <marker date="1531215665000" expanded="true" signature="2170:2242" ph="/// The root CAI menu name. ... " />
+            <marker date="1531215665000" expanded="true" signature="2305:2385" ph="/// The navigation asset menu name. ... " />
+            <marker date="1531215665000" expanded="true" signature="2470:2545" ph="/// The NMGen asset menu name. ... " />
+            <marker date="1531215665000" expanded="true" signature="2634:2714" ph="/// The NMGen GameObject menu name. ... " />
+            <marker date="1531215665000" expanded="true" signature="2802:2887" ph="/// The navigation GameObject menu name. ... " />
+            <marker date="1531215665000" expanded="true" signature="2971:3043" ph="/// The CAI view menu name. ... " />
+            <marker date="1531215665000" expanded="true" signature="3249:3331" ph="/// A general purpose error text box. ... " />
+            <marker date="1531215665000" expanded="true" signature="3373:3856" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3399:3846" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3454:3796" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3866:3950" ph="/// A general purpose warning text box. ... " />
+            <marker date="1531215665000" expanded="true" signature="3994:4492" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4020:4482" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4077:4430" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4502:4583" ph="/// A general purpose help text box. ... " />
+            <marker date="1531215665000" expanded="true" signature="4624:5104" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4650:5094" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4704:5045" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5114:5604" ph="/// Provides an editor GUI for adding/removing objects from a list based on object type. ... " />
+            <marker date="1531215665000" expanded="true" signature="5744:7481" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6010:6191" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6062:6177" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6262:6998" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6367:6824" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6861:6984" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7163:7349" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7221:7335" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7491:7825" ph="/// Provides an editor GUI for adding/removing strings from a list. ... " />
+            <marker date="1531215665000" expanded="true" signature="7907:9477" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8090:9021" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8258:8847" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8884:9007" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9161:9345" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9218:9331" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9487:9869" ph="/// Creates a new asset in the same directory as the specified asset. ... " />
+            <marker date="1531215665000" expanded="true" signature="9988:10490" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="10500:11020" ph="/// Creates a new asset at the standard path. ... " />
+            <marker date="1531215665000" expanded="true" signature="11113:11625" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11635:12191" ph="/// Gets the specified global asset. ... " />
+            <marker date="1531215665000" expanded="true" signature="12274:12997" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12437:12576" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12725:12959" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13007:13734" ph="/// Attempts to get a scene position based on the current SceneView camera. ... " />
+            <marker date="1531215665000" expanded="true" signature="13784:14208" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14289:14722" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util-u3d/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/NavmeshBuildHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="false" signature="1130:1220" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1264:15646" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1311:15644" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1497:1633" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1662:3740" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1835:3595" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2383:2650" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2694:2945" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3025:3173" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3615:3730" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3780:4201" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3882:4016" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4029:4131" ph="/* Not helpful. ... */" />
+            <marker date="1531215665000" expanded="true" signature="4241:8261" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4450:4652" ph="/* Design note: ... */" />
+            <marker date="1531215665000" expanded="true" signature="4920:5109" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5150:5774" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5222:5488" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5509:5760" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5907:6260" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6142:6212" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6433:6865" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7447:7629" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7723:7981" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8301:12602" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8785:12086" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8855:12072" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9212:9294" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9622:9929" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="10218:10494" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="10584:10888" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11542:11846" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12169:12355" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12639:13719" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12777:12911" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13213:13398" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13584:13683" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13760:13884" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13942:15638" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14242:14390" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14407:14858" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14465:14844" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14732:14826" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14878:14993" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="15098:15237" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="15424:15592" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cai-util/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/util-u3d/util-u3d.csproj" />
+    <entry file="file://$PROJECT_DIR$/cai-util-u3d/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/nmgen/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/cai-nmbuild-u3d/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/cai-nmbuild/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/cai-nav/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/cai-nav-u3d/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/cai-nmbuild-extras-u3d/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/cai-nmgen/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/controls/BuildControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1167:2542" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1234:2540" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1784:2044" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2081:2196" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2267:2440" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-extras-u3d/Editor/AreaMarkerEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1186" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1188:1294" ph="/// Base editor for &lt;see cref=&quot;NMGenAreaMarker&quot;/&gt; components. ... " />
+            <marker date="1531215665000" expanded="true" signature="1351:3153" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1431:1496" ph="/// An area selector control ... " />
+            <marker date="1531215665000" expanded="true" signature="1571:1643" ph="/// Run when the editor is enabled. ... " />
+            <marker date="1531215665000" expanded="true" signature="1681:1829" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1835:1961" ph="/// Controls behavior of the inspector. ... " />
+            <marker date="1531215665000" expanded="true" signature="2013:2566" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2572:2791" ph="/// Draws the standard gizmo for &lt;see cref=&quot;NMGenAreaMarker&quot;/&gt; components. ... " />
+            <marker date="1531215665000" expanded="true" signature="2875:3151" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nav/CrowdAgent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1128" ph="/* Copyright (c) 2011-2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1135:1293" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1329:13282" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1336:1815" ph="/// Represents an agent managed by a &lt;see cref=&quot;CrowdManager&quot;/&gt; object. ... " />
+            <marker date="1531215665000" expanded="true" signature="1850:13280" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1865:2204" ph="/* Design notes: ... */" />
+            <marker date="1531215665000" expanded="true" signature="2335:2436" ph="/// The &lt;see cref=&quot;CrowdManager&quot;/&gt; the agent belongs to. ... " />
+            <marker date="1531215665000" expanded="true" signature="2472:2529" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2539:2637" ph="/// The type of mesh polygon the agent is traversing. ... " />
+            <marker date="1531215665000" expanded="true" signature="2675:2766" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2776:2879" ph="/// The number of neighbor agents. (In vicinity of agent.) ... " />
+            <marker date="1531215665000" expanded="true" signature="2913:3012" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3022:3105" ph="/// The desired agent speed. (Derived) ... " />
+            <marker date="1531215665000" expanded="true" signature="3140:3238" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3248:3323" ph="/// The position of the agent. ... " />
+            <marker date="1531215665000" expanded="true" signature="3356:3450" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3460:3568" ph="/// The reference of the polygon containing the agent position. ... " />
+            <marker date="1531215665000" expanded="true" signature="3601:3697" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3707:3948" ph="/// The agent's target. (Location the agent is moving toward.) ... " />
+            <marker date="1531215665000" expanded="true" signature="3978:4068" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4078:4178" ph="/// The reference of the polygon containing the target. ... " />
+            <marker date="1531215665000" expanded="true" signature="4209:4303" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4313:4553" ph="/// The next corner in the path corridor. ... " />
+            <marker date="1531215665000" expanded="true" signature="4587:4681" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4691:4996" ph="/// The reference of the polygon containing the next corner. ... " />
+            <marker date="1531215665000" expanded="true" signature="5031:5129" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5139:5225" ph="/// The desired agent velocity. (Derived) ... " />
+            <marker date="1531215665000" expanded="true" signature="5265:5366" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5376:5451" ph="/// The actual agent velocity. ... " />
+            <marker date="1531215665000" expanded="true" signature="5484:5578" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5588:5697" ph="/// Indicates whether the object's resources have been disposed. ... " />
+            <marker date="1531215665000" expanded="true" signature="5878:5996" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6029:6141" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6151:6285" ph="/// Gets the agent configuration. ... " />
+            <marker date="1531215665000" expanded="true" signature="6329:6534" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6544:6702" ph="/// Updates the configuration for an agent. ... " />
+            <marker date="1531215665000" expanded="true" signature="6757:6946" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6956:7735" ph="/// Submits a new move request for the agent. ... " />
+            <marker date="1531215665000" expanded="true" signature="7794:8000" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8010:8544" ph="/// Adjusts the position of an agent's target. ... " />
+            <marker date="1531215665000" expanded="true" signature="8604:8811" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8821:9561" ph="/// Gets the corridor data related to the agent. ... " />
+            <marker date="1531215665000" expanded="true" signature="9618:9965" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9808:9866" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9975:10538" ph="/// Gets the local boundary data for the agent. ... " />
+            <marker date="1531215665000" expanded="true" signature="10596:10710" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="10720:11254" ph="/// Gets data related to the neighbors in the vicinity of the agent. ... " />
+            <marker date="1531215665000" expanded="true" signature="11310:11660" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11444:11499" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11670:11935" ph="/// Gets the agent associated with the specified neighbor. ... " />
+            <marker date="1531215665000" expanded="true" signature="11997:12167" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12177:12863" ph="/// Gets the local corner data for the agent. ... " />
+            <marker date="1531215665000" expanded="true" signature="12916:13274" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13121:13179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nav-u3d/Editor/CAIBakedNavmeshEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1325" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1327:1413" ph="/// &lt;see cref=&quot;CAIBakedNavmesh&quot;/&gt; editor. ... " />
+            <marker date="1531215665000" expanded="true" signature="1515:1591" ph="/// Controls behavior of the inspector. ... " />
+            <marker date="1531215665000" expanded="true" signature="1633:3167" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2264:2499" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2566:2818" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2890:3053" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3240:4106" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3437:3727" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3763:3813" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3829:3905" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3931:4078" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4179:5301" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4362:4518" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4554:4682" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4698:4774" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5426:5619" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5717:5781" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5894:5948" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cai-nmgen/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/../nmbuild/Editor/BuildTaskProcessor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1247" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1280:12972" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1287:2314" ph="/// Provides a simple multi-threaded processsor for &lt;see cref=&quot;IBuildTask&quot;/&gt; objects. ... " />
+            <marker date="1531215665000" expanded="true" signature="2357:12970" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2372:2798" ph="/* Design notes: ... */" />
+            <marker date="1531215665000" expanded="true" signature="2808:2898" ph="/// A standard value for high priority tasks. ... " />
+            <marker date="1531215665000" expanded="true" signature="2954:3046" ph="/// A standard value for medium priority tasks. ... " />
+            <marker date="1531215665000" expanded="true" signature="3104:3193" ph="/// A standard value for low priority tasks. ... " />
+            <marker date="1531215665000" expanded="true" signature="3271:5711" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3456:3515" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3565:3645" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3676:5701" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3722:5687" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3934:4070" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4199:5669" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4362:5647" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4417:5282" ph="/* Design note: ... */" />
+            <marker date="1531215665000" expanded="true" signature="5314:5418" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5467:5621" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5888:6075" ph="/// The length of time the processor will idle when there are no tasks to process. ... " />
+            <marker date="1531215665000" expanded="true" signature="6111:6223" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6233:6422" ph="/// The length of time the processor will idle when there are tasks being processed. ... " />
+            <marker date="1531215665000" expanded="true" signature="6462:6581" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7056:7268" ph="/// Constructor ... " />
+            <marker date="1531215665000" expanded="true" signature="7321:7511" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7521:7608" ph="/// The number of active and queued tasks. ... " />
+            <marker date="1531215665000" expanded="true" signature="7678:7752" ph="/// The processor is running. ... " />
+            <marker date="1531215665000" expanded="true" signature="7823:8115" ph="/// The maximum permitted active tasks before new tasks are queued. ... " />
+            <marker date="1531215665000" expanded="true" signature="8197:8479" ph="/// Aborts the processor. ... " />
+            <marker date="1531215665000" expanded="true" signature="8507:8780" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8790:9145" ph="/// Queues a task to be run. ... " />
+            <marker date="1531215665000" expanded="true" signature="9192:10114" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9481:9803" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9564:9785" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9948:10060" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="10124:10560" ph="/// Runs the processor. ... " />
+            <marker date="1531215665000" expanded="true" signature="10586:12964" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="10789:12646" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11008:12350" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11151:11357" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11386:11578" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11715:12028" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12071:12328" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12733:12921" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmgen/Editor/ChunkyTriMesh.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1357" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1395:7778" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1402:2799" ph="/// Represents a triangle mesh with area data, spatially divided into nodes for more efficient  ... " />
+            <marker date="1531215665000" expanded="true" signature="2834:7776" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3106:3195" ph="/// The number of spacial nodes in the mesh. ... " />
+            <marker date="1531215665000" expanded="true" signature="3265:3499" ph="/// The number of triangles in the mesh. ... " />
+            <marker date="1531215665000" expanded="true" signature="3781:4515" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4525:4585" ph="/// Destructor. ... " />
+            <marker date="1531215665000" expanded="true" signature="4610:4653" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4663:5173" ph="/// Gets all nodes overlapped by the specified bounds. ... " />
+            <marker date="1531215665000" expanded="true" signature="5300:6096" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5483:6058" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5712:5833" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5923:6044" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6106:6333" ph="/// Extracts all triangles from the mesh. (Not efficient.) ... " />
+            <marker date="1531215665000" expanded="true" signature="6391:7108" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6443:6530" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7118:7233" ph="/// True if the object has been disposed and should no longer be used. ... " />
+            <marker date="1531215665000" expanded="true" signature="7316:7414" ph="/// Frees all resources and marks object as disposed. ... " />
+            <marker date="1531215665000" expanded="true" signature="7444:7770" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7491:7760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/MeshUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1203" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1247:2421" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1284:2419" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1430:2413" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1670:2403" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1837:2000" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/input/AreaFlagDef.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1297" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1299:1832" ph="/// Defines a mapping between areas and flags and applies the flags during the NMGen build process. ... " />
+            <marker date="1531215665000" expanded="true" signature="1931:6204" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1938:2009" ph="/// Flags to associate with areas. ... " />
+            <marker date="1531215665000" expanded="true" signature="2043:2119" ph="/// The area associated with the flags. ... " />
+            <marker date="1531215665000" expanded="true" signature="2229:2304" ph="/// The priority of the processor. ... " />
+            <marker date="1531215665000" expanded="true" signature="2364:2430" ph="/// The name of the processor ... " />
+            <marker date="1531215665000" expanded="true" signature="2484:2597" ph="/// Sets the priority. ... " />
+            <marker date="1531215665000" expanded="true" signature="2636:2698" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2704:2779" ph="/// Duplicates allowed. (Always true.) ... " />
+            <marker date="1531215665000" expanded="true" signature="2844:3315" ph="/// Processes the context. ... " />
+            <marker date="1531215665000" expanded="true" signature="3394:3615" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3672:4928" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3811:3927" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4066:4825" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4246:4516" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4355:4502" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4545:4815" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4991:5227" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5071:5200" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5287:6202" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5430:5546" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5647:5761" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5887:6031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/input/AreaFlagDefEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1294" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1296:1378" ph="/// &lt;see cref=&quot;AreaFlagDef&quot;/&gt; editor. ... " />
+            <marker date="1531215665000" expanded="true" signature="1465:4670" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1638:1787" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1793:1869" ph="/// Controls behavior of the inspector. ... " />
+            <marker date="1531215665000" expanded="true" signature="1911:4336" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2108:2309" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2653:3426" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2792:3225" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3258:3372" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3647:3803" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4342:4453" ph="[...]" />
+            <marker date="1531215665000" expanded="true" signature="4483:4668" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild/Editor/BuildTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1209" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1242:9499" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1249:1599" ph="/// A standard build task that provides data upon completion. ... " />
+            <marker date="1531215665000" expanded="true" signature="1659:9497" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1961:2091" ph="/// Constructor. ... " />
+            <marker date="1531215665000" expanded="true" signature="2130:2184" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2194:2363" ph="/// The priority of the item. ... " />
+            <marker date="1531215665000" expanded="true" signature="2431:2684" ph="/// If true, the task can be safely run on a separate thread from the object(s) monitoring ... " />
+            <marker date="1531215665000" expanded="true" signature="2745:3423" ph="/// Performs a work increment. ... " />
+            <marker date="1531215665000" expanded="true" signature="3480:4077" ph="/// Gets the result of the completed task. ... " />
+            <marker date="1531215665000" expanded="true" signature="4144:4455" ph="/// Finalize the task. ... " />
+            <marker date="1531215665000" expanded="true" signature="4515:4663" ph="/// Adds a message to the message queue. ... " />
+            <marker date="1531215665000" expanded="true" signature="4714:4804" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4813:4979" ph="/// Appends an array of messages to the message queue. ... " />
+            <marker date="1531215665000" expanded="true" signature="5033:5128" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5138:5217" ph="/// The current state of the task. ... " />
+            <marker date="1531215665000" expanded="true" signature="5313:5394" ph="/// The task is in a finished state. ... " />
+            <marker date="1531215665000" expanded="true" signature="5467:5797" ph="/// Messages available after the task is finished. ... " />
+            <marker date="1531215665000" expanded="true" signature="5898:6197" ph="/// The data produced by the task. ... " />
+            <marker date="1531215665000" expanded="true" signature="6257:6684" ph="/// Runs the task through to a finished state. ... " />
+            <marker date="1531215665000" expanded="true" signature="6710:7441" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6930:7246" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6982:7197" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7286:7351" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7371:7431" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7451:7774" ph="/// Requests an abort of the task. ... " />
+            <marker date="1531215665000" expanded="true" signature="7815:8250" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8022:8151" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8290:9088" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8398:8642" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8437:8531" ph="/* Don't care if the task actually finished. ... */" />
+            <marker date="1531215665000" expanded="true" signature="8663:9010" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8705:8855" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8903:8992" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9147:9491" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-extras-u3d/Editor/AreaMarkerCompiler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1245" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1247:1454" ph="/// Loads and compiles all &lt;see cref=&quot;CylinderAreaMarker&quot;/&gt; and &lt;see cref=&quot;BoxAreaMarker&quot;/&gt; ... " />
+            <marker date="1531215665000" expanded="true" signature="1538:4533" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1545:1616" ph="/// The priority of the processor. ... " />
+            <marker date="1531215665000" expanded="true" signature="1686:1752" ph="/// The name of the processor ... " />
+            <marker date="1531215665000" expanded="true" signature="1806:1886" ph="/// Duplicates not allowed. (Always false.) ... " />
+            <marker date="1531215665000" expanded="true" signature="1952:2429" ph="/// Processes the context. ... " />
+            <marker date="1531215665000" expanded="true" signature="2508:2880" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2543:2852" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2580:2842" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2930:3119" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3172:4531" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3436:4447" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3490:3953" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3997:4437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-extras-u3d/Editor/OFMConnectionCompiler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="true" signature="1130:1245" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1247:1417" ph="/// Loads and compiles all &lt;see cref=&quot;OFMConnection&quot;/&gt; components in the scene, based on the ... " />
+            <marker date="1531215665000" expanded="true" signature="1504:4036" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1511:1582" ph="/// The priority of the processor. ... " />
+            <marker date="1531215665000" expanded="true" signature="1652:1718" ph="/// The name of the processor ... " />
+            <marker date="1531215665000" expanded="true" signature="1772:1852" ph="/// Duplicates not allowed. (Always false.) ... " />
+            <marker date="1531215665000" expanded="true" signature="1918:2395" ph="/// Processes the context. ... " />
+            <marker date="1531215665000" expanded="true" signature="2474:2846" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2509:2818" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2546:2808" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="2896:3091" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3144:4034" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3417:3940" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="3506:3930" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nmbuild-u3d/Editor/NavmeshBuild.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531215665000" expanded="true" signature="0:1123" ph="/* Copyright (c) 2012 Stephen A. Pratt ... */" />
+            <marker date="1531215665000" expanded="false" signature="1130:1326" ph="..." />
+            <marker date="1531215665000" expanded="true" signature="1328:1547" ph="/// A navigation mesh build. (Editor Only) ... " />
+            <marker date="1531215665000" expanded="true" signature="1625:22196" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="1632:2658" ph="/* Design notes: ... */" />
+            <marker date="1531215665000" expanded="false" signature="2713:3690" ph="Serialized Fields" />
+            <marker date="1531215665000" expanded="true" signature="2819:2949" ph="/// Warning: Always check for nulls via (inputProcessors[i]) evaluation. Don't do null check. ... " />
+            <marker date="1531215665000" expanded="false" signature="3696:4018" ph="Non-Serialized Fields" />
+            <marker date="1531215665000" expanded="true" signature="4024:4088" ph="/// The state of the build. ... " />
+            <marker date="1531215665000" expanded="true" signature="4128:4847" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4146:4841" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4169:4316" ph="/* The test for the input processors is lazy since it may contain ... */" />
+            <marker date="1531215665000" expanded="true" signature="4465:4669" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="4884:4985" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5026:5465" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5079:5459" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5126:5449" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5493:5663" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5567:5657" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5695:5758" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5816:6456" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="5957:6120" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6004:6110" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6340:6426" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6784:6863" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6900:7513" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="6920:7066" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7078:7507" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7218:7497" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7372:7483" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7552:8138" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7572:7710" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7722:8132" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="7852:8122" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8001:8108" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8309:8388" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8540:8723" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8614:8695" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="8729:8875" ph="/// Resets the build to the &lt;see cref=&quot;NavmeshBuildState.Inactive&quot;/&gt; state, clearing all  ... " />
+            <marker date="1531215665000" expanded="true" signature="8904:9213" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9274:9795" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9549:9722" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9856:11251" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="9989:10171" ph="/* Note: Must ensure exact match with original configuration. ... */" />
+            <marker date="1531215665000" expanded="true" signature="10692:10803" ph="/* Make sure the maximum bounds fits the target mesh. ... */" />
+            <marker date="1531215665000" expanded="true" signature="10846:11179" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11473:14260" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="11488:11611" ph="/* Remember: Never allow this method to clear the input geometry. ... */" />
+            <marker date="1531215665000" expanded="true" signature="11642:11763" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12124:12230" ph="/* This section makes sure we don't get duplicate processors. ... */" />
+            <marker date="1531215665000" expanded="true" signature="12281:12829" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12668:12819" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="12859:12987" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13152:13284" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13515:13911" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="13653:13901" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14359:14736" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14419:14643" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14656:14730" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14811:17151" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="14911:15089" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="15158:15302" ph="/* Note: The tile size is checked since the original builder ... */" />
+            <marker date="1531215665000" expanded="true" signature="15424:15601" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="15719:15957" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="15762:15921" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16043:16202" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16282:16857" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16580:16847" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16631:16803" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16885:17123" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="16928:17087" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="17189:17606" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="17271:17501" ph="/* Note: The user may have recompiled the input geometry during the build, resulting in a ... */" />
+            <marker date="1531215665000" expanded="true" signature="17680:21363" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="17743:17942" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="17978:18099" ph="/* Note: If loading from the target, the tile size was already validated. ... */" />
+            <marker date="1531215665000" expanded="true" signature="18188:18499" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="18585:19711" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="18741:18931" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="19062:19606" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="19267:19524" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="19741:21276" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="20090:20342" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="20398:21266" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="20694:21182" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="20733:20828" ph="/* Shouldn't happen.  Probably indicates in internal error ... */" />
+            <marker date="1531215665000" expanded="true" signature="21384:21687" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="21709:21766" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="21798:22194" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="21891:21991" ph="{...}" />
+            <marker date="1531215665000" expanded="true" signature="22028:22188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Local</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="Local" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

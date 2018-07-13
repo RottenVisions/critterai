@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{494C697A-18DB-4BBD-9E93-0863202DD9A9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>cai_nmbuild_extras_u3d</RootNamespace>
+    <AssemblyName>cai_nmbuild_extras_u3d</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEditor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Program Files\Unity\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\nmbuild-extras-u3d\BoxAreaMarker.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\CylinderAreaMarker.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\Editor\AreaMarkerCompiler.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\Editor\AreaMarkerCompilerEditor.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\Editor\AreaMarkerEditor.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\Editor\BoxAreaMarkerEditor.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\Editor\CylinderAreaMarkerEditor.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\Editor\NMGenComponentEditor.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\Editor\OFMConnectionCompiler.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\Editor\OFMConnectionCompilerEditor.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\Editor\OFMConnectionEditor.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\NMGenAreaMarker.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\NMGenComponent.cs" />
+    <Compile Include="..\..\nmbuild-extras-u3d\OFMConnection.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\cai-nav-u3d\cai-nav-u3d.csproj">
+      <Project>{017b7d38-f08d-4a35-b9e4-fe9ee69f7fc0}</Project>
+      <Name>cai-nav-u3d</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cai-nav\cai-nav.csproj">
+      <Project>{b4232085-3ff2-4236-978b-08c3e593ba95}</Project>
+      <Name>cai-nav</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cai-nmbuild-u3d\cai-nmbuild-u3d.csproj">
+      <Project>{03a52d59-1e44-40f4-aba7-87fd8c2a2f10}</Project>
+      <Name>cai-nmbuild-u3d</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cai-nmbuild\cai-nmbuild.csproj">
+      <Project>{c96659d0-3e34-4d4a-8e80-67a8d35dfbe1}</Project>
+      <Name>cai-nmbuild</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cai-nmgen\cai-nmgen.csproj">
+      <Project>{5c2e77a6-5187-4a0d-8186-f4ae45fd8c1d}</Project>
+      <Name>cai-nmgen</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cai-util-u3d\cai-util-u3d.csproj">
+      <Project>{9651f341-fb18-4a2a-b88e-b3e6712c1baa}</Project>
+      <Name>cai-util-u3d</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cai-util\cai-util.csproj">
+      <Project>{487c8221-da83-430a-af49-dc3ae84ba1c5}</Project>
+      <Name>cai-util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+</Project>

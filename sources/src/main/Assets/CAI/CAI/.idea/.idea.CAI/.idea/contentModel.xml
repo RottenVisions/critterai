@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Black\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_CAI.2134025804.00" t="ExcludeRecursive" />
+    <e p="D:\Program Files\GitHub\critterai\sources\src\main\Assets\CAI\CAI" t="IncludeFlat">
+      <e p="cai-nav" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cai-nav.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="cai-nav-u3d" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cai-nav-u3d.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="cai-nmbuild" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cai-nmbuild.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="cai-nmbuild-extras-u3d" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cai-nmbuild-extras-u3d.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="cai-nmbuild-u3d" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cai-nmbuild-u3d.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="cai-nmgen" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cai-nmgen.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="cai-util" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cai-util.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="cai-util-u3d" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cai-util-u3d.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CAI.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="D:\Program Files\GitHub\critterai\sources\src\main\Assets\CAI\nav" t="Include">
+      <e p="CornerData.cs" t="Include" />
+      <e p="CrowdAgent.cs" t="Include" />
+      <e p="CrowdAgentCoreData.cs" t="Include" />
+      <e p="CrowdAgentParams.cs" t="Include" />
+      <e p="CrowdAgentState.cs" t="Include" />
+      <e p="CrowdAvoidanceParams.cs" t="Include" />
+      <e p="CrowdLocalBoundaryData.cs" t="Include" />
+      <e p="CrowdManager.cs" t="Include" />
+      <e p="CrowdNeighbor.cs" t="Include" />
+      <e p="CrowdProximityGrid.cs" t="Include" />
+      <e p="CrowdUpdateFlags.cs" t="Include" />
+      <e p="Navmesh.cs" t="Include" />
+      <e p="NavmeshBVNode.cs" t="Include" />
+      <e p="NavmeshConnection.cs" t="Include" />
+      <e p="NavmeshDetailMesh.cs" t="Include" />
+      <e p="NavmeshLink.cs" t="Include" />
+      <e p="NavmeshParams.cs" t="Include" />
+      <e p="NavmeshPoint.cs" t="Include" />
+      <e p="NavmeshPoly.cs" t="Include" />
+      <e p="NavmeshPolyType.cs" t="Include" />
+      <e p="NavmeshQuery.cs" t="Include" />
+      <e p="NavmeshQueryFilter.cs" t="Include" />
+      <e p="NavmeshTile.cs" t="Include" />
+      <e p="NavmeshTileBuildData.cs" t="Include" />
+      <e p="NavmeshTileData.cs" t="Include" />
+      <e p="NavmeshTileExtract.cs" t="Include" />
+      <e p="NavmeshTileHeader.cs" t="Include" />
+      <e p="NavStatus.cs" t="Include" />
+      <e p="NavUtil.cs" t="Include" />
+      <e p="OffMeshConnection.cs" t="Include" />
+      <e p="PathCorridor.cs" t="Include" />
+      <e p="PathCorridorData.cs" t="Include" />
+      <e p="rcn" t="Include">
+        <e p="CrowdAgentEx.cs" t="Include" />
+        <e p="CrowdManagerEx.cs" t="Include" />
+        <e p="CrowdProximityGridEx.cs" t="Include" />
+        <e p="NavInteropUtil.cs" t="Include" />
+        <e p="NavmeshEx.cs" t="Include" />
+        <e p="NavmeshQueryEx.cs" t="Include" />
+        <e p="NavmeshQueryFilterEx.cs" t="Include" />
+        <e p="NavmeshTileEx.cs" t="Include" />
+        <e p="PathCorridorEx.cs" t="Include" />
+      </e>
+      <e p="WaypointFlag.cs" t="Include" />
+    </e>
+    <e p="D:\Program Files\GitHub\critterai\sources\src\main\Assets\CAI\nav-u3d" t="Include">
+      <e p="CAIBakedNavmesh.cs" t="Include" />
+      <e p="CrowdAgentDebug.cs" t="Include" />
+      <e p="Editor" t="Include">
+        <e p="CAIBakedNavmeshEditor.cs" t="Include" />
+        <e p="CAINavEditorSettings.cs" t="Include" />
+        <e p="CAINavEditorSettingsEditor.cs" t="Include" />
+        <e p="NavEditorUtil.cs" t="Include" />
+        <e p="NavmeshSceneDraw.cs" t="Include" />
+      </e>
+      <e p="INavmeshData.cs" t="Include" />
+      <e p="NavDebug.cs" t="Include" />
+      <e p="NavGroup.cs" t="Include" />
+      <e p="NavmeshBuildInfo.cs" t="Include" />
+    </e>
+    <e p="D:\Program Files\GitHub\critterai\sources\src\main\Assets\CAI\nmbuild\Editor" t="Include">
+      <e p="BuildTask.cs" t="Include" />
+      <e p="BuildTaskProcessor.cs" t="Include" />
+      <e p="BuildTaskState.cs" t="Include" />
+      <e p="ConnectionSet.cs" t="Include" />
+      <e p="ConnectionSetCompiler.cs" t="Include" />
+      <e p="IBuildTask.cs" t="Include" />
+      <e p="IncrementalBuilder.cs" t="Include" />
+      <e p="InputGeometry.cs" t="Include" />
+      <e p="InputGeometryBuilder.cs" t="Include" />
+      <e p="InputGeometryCompiler.cs" t="Include" />
+      <e p="NMBuild.cs" t="Include" />
+      <e p="NMGenAssetFlag.cs" t="Include" />
+      <e p="NMGenAssets.cs" t="Include" />
+      <e p="NMGenContext.cs" t="Include" />
+      <e p="NMGenFlag.cs" t="Include" />
+      <e p="NMGenState.cs" t="Include" />
+      <e p="NMGenTask.cs" t="Include" />
+      <e p="processors" t="Include">
+        <e p="ApplyPolygonFlags.cs" t="Include" />
+        <e p="AreaBoxMarker.cs" t="Include" />
+        <e p="AreaConvexMarker.cs" t="Include" />
+        <e p="AreaCylinderMarker.cs" t="Include" />
+        <e p="AreaFlagMapper.cs" t="Include" />
+        <e p="AreaMarker.cs" t="Include" />
+        <e p="FilterLedgeSpans.cs" t="Include" />
+        <e p="FilterLowHeightSpans.cs" t="Include" />
+        <e p="INMGenProcessor.cs" t="Include" />
+        <e p="LowObstaclesWalkable.cs" t="Include" />
+        <e p="NMGenProcessor.cs" t="Include" />
+      </e>
+      <e p="ProcessorSet.cs" t="Include" />
+      <e p="TileBuildAssets.cs" t="Include" />
+      <e p="TileBuildTask.cs" t="Include" />
+      <e p="TileSetDefinition.cs" t="Include" />
+      <e p="TileZone.cs" t="Include" />
+    </e>
+    <e p="D:\Program Files\GitHub\critterai\sources\src\main\Assets\CAI\nmbuild-extras-u3d" t="Include">
+      <e p="BoxAreaMarker.cs" t="Include" />
+      <e p="CylinderAreaMarker.cs" t="Include" />
+      <e p="Editor" t="Include">
+        <e p="AreaMarkerCompiler.cs" t="Include" />
+        <e p="AreaMarkerCompilerEditor.cs" t="Include" />
+        <e p="AreaMarkerEditor.cs" t="Include" />
+        <e p="BoxAreaMarkerEditor.cs" t="Include" />
+        <e p="CylinderAreaMarkerEditor.cs" t="Include" />
+        <e p="NMGenComponentEditor.cs" t="Include" />
+        <e p="OFMConnectionCompiler.cs" t="Include" />
+        <e p="OFMConnectionCompilerEditor.cs" t="Include" />
+        <e p="OFMConnectionEditor.cs" t="Include" />
+      </e>
+      <e p="NMGenAreaMarker.cs" t="Include" />
+      <e p="NMGenComponent.cs" t="Include" />
+      <e p="OFMConnection.cs" t="Include" />
+    </e>
+    <e p="D:\Program Files\GitHub\critterai\sources\src\main\Assets\CAI\nmbuild-u3d\Editor" t="Include">
+      <e p="controls" t="Include">
+        <e p="BuildControl.cs" t="Include" />
+        <e p="BuildController.cs" t="Include" />
+        <e p="BuilderControl.cs" t="Include" />
+        <e p="BuildProcessor.cs" t="Include" />
+        <e p="BuildSelector.cs" t="Include" />
+        <e p="ControlContext.cs" t="Include" />
+        <e p="ControlUtil.cs" t="Include" />
+        <e p="CoreFailureControl.cs" t="Include" />
+        <e p="FailureControl.cs" t="Include" />
+        <e p="IBuildControl.cs" t="Include" />
+        <e p="InputCompileControl.cs" t="Include" />
+        <e p="MiniInputCompile.cs" t="Include" />
+        <e p="MultiTileBuildControl.cs" t="Include" />
+        <e p="NMGenConfigControl.cs" t="Include" />
+        <e p="SingleTileBuildControl.cs" t="Include" />
+      </e>
+      <e p="input" t="Include">
+        <e p="AreaFlagDef.cs" t="Include" />
+        <e p="AreaFlagDefEditor.cs" t="Include" />
+        <e p="ColliderCompiler.cs" t="Include" />
+        <e p="ColliderCompilerEditor.cs" t="Include" />
+        <e p="ColliderHelper.cs" t="Include" />
+        <e p="DefaultAreaDef.cs" t="Include" />
+        <e p="DefaultAreaDefEditor.cs" t="Include" />
+        <e p="IInputBuildProcessor.cs" t="Include" />
+        <e p="InputAssets.cs" t="Include" />
+        <e p="InputBuildContext.cs" t="Include" />
+        <e p="InputBuilder.cs" t="Include" />
+        <e p="InputBuildInfo.cs" t="Include" />
+        <e p="InputBuildOption.cs" t="Include" />
+        <e p="InputBuildState.cs" t="Include" />
+        <e p="InputBuildTask.cs" t="Include" />
+        <e p="ISceneQuery.cs" t="Include" />
+        <e p="MeshAreaDef.cs" t="Include" />
+        <e p="MeshAreaDefEditor.cs" t="Include" />
+        <e p="MeshColocationOption.cs" t="Include" />
+        <e p="MeshCompiler.cs" t="Include" />
+        <e p="MeshCompilerEditor.cs" t="Include" />
+        <e p="MeshInputFilter.cs" t="Include" />
+        <e p="MeshInputFilterEditor.cs" t="Include" />
+        <e p="StaticFilter.cs" t="Include" />
+        <e p="StaticFilterEditor.cs" t="Include" />
+        <e p="TagAreaDef.cs" t="Include" />
+        <e p="TagAreaDefEditor.cs" t="Include" />
+        <e p="TagInputFilter.cs" t="Include" />
+        <e p="TagInputFilterEditor.cs" t="Include" />
+        <e p="TagSceneQuery.cs" t="Include" />
+        <e p="TagSceneQueryEditor.cs" t="Include" />
+        <e p="TerrainCompiler.cs" t="Include" />
+        <e p="TerrainCompilerEditor.cs" t="Include" />
+      </e>
+      <e p="MatchPredicate.cs" t="Include" />
+      <e p="MatchType.cs" t="Include" />
+      <e p="MeshUtil.cs" t="Include" />
+      <e p="NavmeshBuild.cs" t="Include" />
+      <e p="NavmeshBuildDelegate.cs" t="Include" />
+      <e p="NavmeshBuildEditor.cs" t="Include" />
+      <e p="NavmeshBuildHelper.cs" t="Include" />
+      <e p="NavmeshBuildManager.cs" t="Include" />
+      <e p="NavmeshBuildState.cs" t="Include" />
+      <e p="NavmeshBuildType.cs" t="Include" />
+      <e p="NMBEditorUtil.cs" t="Include" />
+      <e p="NMBuildSettings.cs" t="Include" />
+      <e p="NMGenConfig.cs" t="Include" />
+      <e p="NMGenDebug.cs" t="Include" />
+      <e p="TerrainUtil.cs" t="Include" />
+      <e p="TileBuildData.cs" t="Include" />
+      <e p="TileBuildDataItem.cs" t="Include" />
+      <e p="TileBuildState.cs" t="Include" />
+      <e p="TileSelection.cs" t="Include" />
+      <e p="UnityBuildContext.cs" t="Include" />
+      <e p="views" t="Include">
+        <e p="DebugViewContext.cs" t="Include" />
+        <e p="InputDebugView.cs" t="Include" />
+        <e p="MeshDebugOption.cs" t="Include" />
+        <e p="MeshDebugView.cs" t="Include" />
+        <e p="SelectionDebugView.cs" t="Include" />
+        <e p="TileGridDebugView.cs" t="Include" />
+        <e p="ViewOption.cs" t="Include" />
+      </e>
+    </e>
+    <e p="D:\Program Files\GitHub\critterai\sources\src\main\Assets\CAI\nmgen" t="Include">
+      <e p="Editor" t="Include">
+        <e p="BuildContext.cs" t="Include" />
+        <e p="ChunkyTriMesh.cs" t="Include" />
+        <e p="ChunkyTriMeshBuilder.cs" t="Include" />
+        <e p="ChunkyTriNode.cs" t="Include" />
+        <e p="CompactCell.cs" t="Include" />
+        <e p="CompactHeightfield.cs" t="Include" />
+        <e p="CompactSpan.cs" t="Include" />
+        <e p="Contour.cs" t="Include" />
+        <e p="ContourBuildFlags.cs" t="Include" />
+        <e p="ContourFlags.cs" t="Include" />
+        <e p="ContourSet.cs" t="Include" />
+        <e p="Heightfield.cs" t="Include" />
+        <e p="HeightFieldLayer.cs" t="Include" />
+        <e p="HeightFieldLayerSet.cs" t="Include" />
+        <e p="HeightfieldSpan.cs" t="Include" />
+        <e p="NMGen.cs" t="Include" />
+        <e p="NMGenParams.cs" t="Include" />
+        <e p="NMGenTileParams.cs" t="Include" />
+        <e p="PolyMesh.cs" t="Include" />
+        <e p="PolyMeshData.cs" t="Include" />
+        <e p="PolyMeshDetail.cs" t="Include" />
+        <e p="PolyMeshDetailData.cs" t="Include" />
+        <e p="rcn" t="Include">
+          <e p="BuildContextEx.cs" t="Include" />
+          <e p="CompactHeightfieldEx.cs" t="Include" />
+          <e p="ContourSetEx.cs" t="Include" />
+          <e p="HeightfieldEx.cs" t="Include" />
+          <e p="HeightfieldLayerSetEx.cs" t="Include" />
+          <e p="NMGenEx.cs" t="Include" />
+          <e p="NMGenInteropUtil.cs" t="Include" />
+          <e p="PolyMeshDetailEx.cs" t="Include" />
+          <e p="PolyMeshEx.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ReadMe.txt" t="Include" />
+    </e>
+    <e p="D:\Program Files\GitHub\critterai\sources\src\main\Assets\CAI\util" t="Include">
+      <e p="ArrayUtil.cs" t="Include" />
+      <e p="CAIUtil.cs" t="Include" />
+      <e p="geom" t="Include">
+        <e p="Circle.cs" t="Include" />
+        <e p="Line2.cs" t="Include" />
+        <e p="LineRelType.cs" t="Include" />
+        <e p="PointLineRelType.cs" t="Include" />
+        <e p="Polygon3.cs" t="Include" />
+        <e p="Rectangle2.cs" t="Include" />
+        <e p="Triangle2.cs" t="Include" />
+        <e p="Triangle3.cs" t="Include" />
+        <e p="TriangleMesh.cs" t="Include" />
+        <e p="Wavefront.cs" t="Include" />
+      </e>
+      <e p="interop" t="Include">
+        <e p="AllocType.cs" t="Include" />
+        <e p="IManagedObject.cs" t="Include" />
+        <e p="ManagedObject.cs" t="Include" />
+        <e p="UtilEx.cs" t="Include" />
+      </e>
+      <e p="IPriorityItem.cs" t="Include" />
+      <e p="MathUtil.cs" t="Include" />
+      <e p="PriorityComparer.cs" t="Include" />
+      <e p="Vector2.cs" t="Include" />
+      <e p="Vector2Util.cs" t="Include" />
+      <e p="Vector3.cs" t="Include" />
+      <e p="Vector3Util.cs" t="Include" />
+    </e>
+    <e p="D:\Program Files\GitHub\critterai\sources\src\main\Assets\CAI\util-u3d" t="Include">
+      <e p="ColorUtil.cs" t="Include" />
+      <e p="DebugDraw.cs" t="Include" />
+      <e p="Editor" t="Include">
+        <e p="EditorUtil.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

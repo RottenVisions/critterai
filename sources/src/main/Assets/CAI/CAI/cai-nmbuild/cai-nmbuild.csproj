@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C96659D0-3E34-4D4A-8E80-67A8D35DFBE1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>cai-nmbuild</RootNamespace>
+    <AssemblyName>cai-nmbuild</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEditor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Program Files\Unity\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\nmbuild\Editor\BuildTask.cs" />
+    <Compile Include="..\..\nmbuild\Editor\BuildTaskProcessor.cs" />
+    <Compile Include="..\..\nmbuild\Editor\BuildTaskState.cs" />
+    <Compile Include="..\..\nmbuild\Editor\ConnectionSet.cs" />
+    <Compile Include="..\..\nmbuild\Editor\ConnectionSetCompiler.cs" />
+    <Compile Include="..\..\nmbuild\Editor\IBuildTask.cs" />
+    <Compile Include="..\..\nmbuild\Editor\IncrementalBuilder.cs" />
+    <Compile Include="..\..\nmbuild\Editor\InputGeometry.cs" />
+    <Compile Include="..\..\nmbuild\Editor\InputGeometryBuilder.cs" />
+    <Compile Include="..\..\nmbuild\Editor\InputGeometryCompiler.cs" />
+    <Compile Include="..\..\nmbuild\Editor\NMBuild.cs" />
+    <Compile Include="..\..\nmbuild\Editor\NMGenAssetFlag.cs" />
+    <Compile Include="..\..\nmbuild\Editor\NMGenAssets.cs" />
+    <Compile Include="..\..\nmbuild\Editor\NMGenContext.cs" />
+    <Compile Include="..\..\nmbuild\Editor\NMGenFlag.cs" />
+    <Compile Include="..\..\nmbuild\Editor\NMGenState.cs" />
+    <Compile Include="..\..\nmbuild\Editor\NMGenTask.cs" />
+    <Compile Include="..\..\nmbuild\Editor\ProcessorSet.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\ApplyPolygonFlags.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\AreaBoxMarker.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\AreaConvexMarker.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\AreaCylinderMarker.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\AreaFlagMapper.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\AreaMarker.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\FilterLedgeSpans.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\FilterLowHeightSpans.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\INMGenProcessor.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\LowObstaclesWalkable.cs" />
+    <Compile Include="..\..\nmbuild\Editor\processors\NMGenProcessor.cs" />
+    <Compile Include="..\..\nmbuild\Editor\TileBuildAssets.cs" />
+    <Compile Include="..\..\nmbuild\Editor\TileBuildTask.cs" />
+    <Compile Include="..\..\nmbuild\Editor\TileSetDefinition.cs" />
+    <Compile Include="..\..\nmbuild\Editor\TileZone.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\cai-nav\cai-nav.csproj">
+      <Project>{b4232085-3ff2-4236-978b-08c3e593ba95}</Project>
+      <Name>cai-nav</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cai-nmgen\cai-nmgen.csproj">
+      <Project>{5c2e77a6-5187-4a0d-8186-f4ae45fd8c1d}</Project>
+      <Name>cai-nmgen</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cai-util-u3d\cai-util-u3d.csproj">
+      <Project>{9651f341-fb18-4a2a-b88e-b3e6712c1baa}</Project>
+      <Name>cai-util-u3d</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cai-util\cai-util.csproj">
+      <Project>{487c8221-da83-430a-af49-dc3ae84ba1c5}</Project>
+      <Name>cai-util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+</Project>

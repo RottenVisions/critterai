@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{487C8221-DA83-430A-AF49-DC3AE84BA1C5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>cai-util</RootNamespace>
+    <AssemblyName>cai-util</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEditor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Program Files\Unity\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\util\ArrayUtil.cs" />
+    <Compile Include="..\..\util\CAIUtil.cs" />
+    <Compile Include="..\..\util\geom\Circle.cs" />
+    <Compile Include="..\..\util\geom\Line2.cs" />
+    <Compile Include="..\..\util\geom\LineRelType.cs" />
+    <Compile Include="..\..\util\geom\PointLineRelType.cs" />
+    <Compile Include="..\..\util\geom\Polygon3.cs" />
+    <Compile Include="..\..\util\geom\Rectangle2.cs" />
+    <Compile Include="..\..\util\geom\Triangle2.cs" />
+    <Compile Include="..\..\util\geom\Triangle3.cs" />
+    <Compile Include="..\..\util\geom\TriangleMesh.cs" />
+    <Compile Include="..\..\util\geom\Wavefront.cs" />
+    <Compile Include="..\..\util\interop\AllocType.cs" />
+    <Compile Include="..\..\util\interop\IManagedObject.cs" />
+    <Compile Include="..\..\util\interop\ManagedObject.cs" />
+    <Compile Include="..\..\util\interop\UtilEx.cs" />
+    <Compile Include="..\..\util\IPriorityItem.cs" />
+    <Compile Include="..\..\util\MathUtil.cs" />
+    <Compile Include="..\..\util\PriorityComparer.cs" />
+    <Compile Include="..\..\util\Vector2.cs" />
+    <Compile Include="..\..\util\Vector2Util.cs" />
+    <Compile Include="..\..\util\Vector3.cs" />
+    <Compile Include="..\..\util\Vector3Util.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+</Project>

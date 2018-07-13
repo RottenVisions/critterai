@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B4232085-3FF2-4236-978B-08C3E593BA95}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>cai-nav</RootNamespace>
+    <AssemblyName>cai-nav</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEditor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Program Files\Unity\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\nav\CornerData.cs" />
+    <Compile Include="..\..\nav\CrowdAgent.cs" />
+    <Compile Include="..\..\nav\CrowdAgentCoreData.cs" />
+    <Compile Include="..\..\nav\CrowdAgentParams.cs" />
+    <Compile Include="..\..\nav\CrowdAgentState.cs" />
+    <Compile Include="..\..\nav\CrowdAvoidanceParams.cs" />
+    <Compile Include="..\..\nav\CrowdLocalBoundaryData.cs" />
+    <Compile Include="..\..\nav\CrowdManager.cs" />
+    <Compile Include="..\..\nav\CrowdNeighbor.cs" />
+    <Compile Include="..\..\nav\CrowdProximityGrid.cs" />
+    <Compile Include="..\..\nav\CrowdUpdateFlags.cs" />
+    <Compile Include="..\..\nav\Navmesh.cs" />
+    <Compile Include="..\..\nav\NavmeshBVNode.cs" />
+    <Compile Include="..\..\nav\NavmeshConnection.cs" />
+    <Compile Include="..\..\nav\NavmeshDetailMesh.cs" />
+    <Compile Include="..\..\nav\NavmeshLink.cs" />
+    <Compile Include="..\..\nav\NavmeshParams.cs" />
+    <Compile Include="..\..\nav\NavmeshPoint.cs" />
+    <Compile Include="..\..\nav\NavmeshPoly.cs" />
+    <Compile Include="..\..\nav\NavmeshPolyType.cs" />
+    <Compile Include="..\..\nav\NavmeshQuery.cs" />
+    <Compile Include="..\..\nav\NavmeshQueryFilter.cs" />
+    <Compile Include="..\..\nav\NavmeshTile.cs" />
+    <Compile Include="..\..\nav\NavmeshTileBuildData.cs" />
+    <Compile Include="..\..\nav\NavmeshTileData.cs" />
+    <Compile Include="..\..\nav\NavmeshTileExtract.cs" />
+    <Compile Include="..\..\nav\NavmeshTileHeader.cs" />
+    <Compile Include="..\..\nav\NavStatus.cs" />
+    <Compile Include="..\..\nav\NavUtil.cs" />
+    <Compile Include="..\..\nav\OffMeshConnection.cs" />
+    <Compile Include="..\..\nav\PathCorridor.cs" />
+    <Compile Include="..\..\nav\PathCorridorData.cs" />
+    <Compile Include="..\..\nav\rcn\CrowdAgentEx.cs" />
+    <Compile Include="..\..\nav\rcn\CrowdManagerEx.cs" />
+    <Compile Include="..\..\nav\rcn\CrowdProximityGridEx.cs" />
+    <Compile Include="..\..\nav\rcn\NavInteropUtil.cs" />
+    <Compile Include="..\..\nav\rcn\NavmeshEx.cs" />
+    <Compile Include="..\..\nav\rcn\NavmeshQueryEx.cs" />
+    <Compile Include="..\..\nav\rcn\NavmeshQueryFilterEx.cs" />
+    <Compile Include="..\..\nav\rcn\NavmeshTileEx.cs" />
+    <Compile Include="..\..\nav\rcn\PathCorridorEx.cs" />
+    <Compile Include="..\..\nav\WaypointFlag.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\cai-util-u3d\cai-util-u3d.csproj">
+      <Project>{9651f341-fb18-4a2a-b88e-b3e6712c1baa}</Project>
+      <Name>cai-util-u3d</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cai-util\cai-util.csproj">
+      <Project>{487c8221-da83-430a-af49-dc3ae84ba1c5}</Project>
+      <Name>cai-util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+</Project>
