@@ -1,10 +1,10 @@
-unity3d_ouroboros_nav_critterai
+Ouroboros Unity3D CritterAI
 =============
 
-## Formerly known cai-nav
+## Formerly CAINav
 Ouroboros CritterAI modified
 
-## compilation (Unity): (Note: unity3d-4.x, unity3d-5.x-32bit, unity3d-5.x-64bit already have compiled file, do not modify the source code, then without recompilation, directly you can)
+## Compilation (Unity): (Note: unity3d-4.x, unity3d-5.x-32bit, unity3d-5.x-64bit already have compiled file, do not modify the source code, then without recompilation, directly you can)
 
 	1: vs2013 and more open sources \ build \ unity \ cai-navigation-u3d.sln
 
@@ -14,7 +14,7 @@ Ouroboros CritterAI modified
 
 	3: compiling, and related files to copy unity3d_nav_critterai \ unity3d-xx (refer to specific documents already compiled content unity3d-5.x-64bit)
 
-## use reference project:
+## Use Reference Project:
 
 	1: The unity3d_nav_critterai \ \ Assets Unity copied to the corresponding item in Assets unity3d-xx
 	2: Open Unity3D to create a new project and add a 3D game terrain and sky boxes in the game scene, terrain create the resource name in a project called "New Terrain.asset"
@@ -52,6 +52,6 @@ Ouroboros CritterAI modified
 	(For more information please refer to the plugin's official website: http: //www.critterai.org/projects/cainav/)
 
 
-## demonstration projects Reference:
+## Demonstration
 
 	None yet
