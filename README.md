@@ -4,7 +4,7 @@ Ouroboros Unity3D CritterAI
 ## Formerly CAINav
 Ouroboros CritterAI modified
 
-## Compilation (Unity): (Note: Unity3D-4.x, Unity3D-5.x-32bit, Unity3D-5.x-64bit already have compiled file, do not modify the source code, then without recompilation, directly you can)
+## Compilation (Unity): (Note: Unity3D-4.x, Unity3D-5.x-32bit, Unity3D-5.x-64bit already have compiled file, do not modify the source code if not totally necessary, otherwise a recompilation is necessary)
 
 	1: VS2013 / Jetbrains Rider and more open sources \ build \ unity \ cai-navigation-u3d.sln
 
